@@ -39,6 +39,6 @@ export default (state = INITIAL_STATE, action) => {
       };
 
       dafault: 
-      return state;
+      return INITIAL_STATE;
   }
 };
