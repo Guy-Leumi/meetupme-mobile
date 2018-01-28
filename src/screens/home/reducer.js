@@ -38,6 +38,7 @@ export default (state = INITIAL_STATE, action) => {
         }
       };
 
-      dafault: return state;
+      dafault: 
+      return state;
   }
 };
